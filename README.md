@@ -92,9 +92,11 @@ ELWallFoam
 ---
 
 ## 📚 Reference
+If you use this solver, please cite:
 
-Ramezanpour et al. (2024)  
-Transport and deposition of nanoparticles in porous media at the pore scale using an Eulerian-Lagrangian method.
+Ramezanpour, M., Siavashi, M., Khoshtarash, H., & Blunt, M. J. (2024).  
+Transport and deposition of nanoparticles in porous media at the pore scale using an Eulerian-Lagrangian method.  
+Journal of the Taiwan Institute of Chemical Engineers, 161, 105536.
 
 ---
 
