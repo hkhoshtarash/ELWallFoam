@@ -44,8 +44,6 @@ The solver is designed for pore-scale simulations in porous media such as:
 ```
 solver/
     ELWallFoam/
-tutorials/
-    caseName/
 related_papers/
 figures/
 README.md
