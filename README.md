@@ -86,8 +86,12 @@ ELWallFoam
 ### 🔲 Boundary Conditions
 ![Boundary](figures/boundary.png)
 
-### 🌡️ Nanoparticle Deposition Behavior
-![Deposition](figures/deposition.png)
+### 🌡️ Nanoparticle Deposition Behavior in OCMFs
+![Deposition](figures/deposition1.png)
+
+### 🌡️ Nanoparticle Deposition Behavior in Berea Sandstone
+![Deposition](figures/deposition2.png)
+
 
 ---
 
